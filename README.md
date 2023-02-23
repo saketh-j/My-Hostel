@@ -13,6 +13,7 @@ Install my-hoste with npm
   
     
 ## Login Credentials
+To get Login page or SignUp page  open code in vs code and in terminal type "npm start" it will take you to signUp or login page.
 
 LogIn Credentials for Admin:
 
